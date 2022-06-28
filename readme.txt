@@ -10,3 +10,13 @@ fly through which specific airports so that a traveler can minimize the risk of 
 This program also has other cool features where you can add any airport of your selecting in
 the world and compare it's delay time ratio to all of the others in the current airport
 catalog in this program. 
+
+I am currently keep tracking of all the data from this program on a daily basis on a micrsoft excell.
+That excell will be published once I am done so that everyone can notice the trends of delays at
+airports
+
+
+
+If you would like to use this code, you will need an access key from https://aviation-edge.com as 
+that is where all the data is from.
+
